@@ -36,4 +36,7 @@ Question 48 and 49: /**
         tune.addNote("A",17);
         player.playTune(tune); 
     } 
+Question 55: I observed that over the SimpleTune1 that i created, i see a green broken lines all over it and it opened the Debugger and opened the source code showing me a green print over the code. After Steping it a few more times, i see that the breakpoint stays and bring the green arrow to " for(Note note : notes) " and then pressing it again bring it to this statement " System.out.println(); " and then the green print is complety gone. 
+Question 56: I did the same thing as step 56 and predicted it perfectly knowing that the green print would go on the first statement and then go on the parentez ending it after stepping it again. 
+Question 57: Did the same thing and the green print went over every single statement and then ended it. 
 
